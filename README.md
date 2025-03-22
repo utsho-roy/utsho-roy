@@ -43,7 +43,7 @@
   <h3>My Data Engineering Credo</h3>
   <details>
     <summary>Click to unlock insight!</summary>
-    <img src="https://media.giphy.com/media/xT9IgG50Fb7MiAYb3O/giphy.gif" width="300" alt="Data Flow">
+    <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="300" alt="Data Flow">
     <p>"Scalability isn’t an option—it’s a necessity. Build it right the first time."</p>
   </details>
 
