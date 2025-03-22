@@ -5,7 +5,7 @@
   <i>Data Engineer • Cloud Enthusiast • Problem Solver</i>
 </p>
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6MLX6YSp5WJck/giphy.gif" width="300" alt="Data Flow"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Data Flow"/>
 </div>
 
 <div align="center">
